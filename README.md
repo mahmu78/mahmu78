@@ -2,4 +2,5 @@ Merhaba bu benim yeni projem içinde dört tane sekme bulunuyor:Sayı Tahmin,Dö
 Project source files: https://drive.google.com/drive/folders/1Y3fmpczhqMQNpeHDsT9uAY7fQjTTXHlp?usp=sharing
 Project setup file : https://drive.google.com/file/d/123e3H4brp5ez2D36JncNAJ92MV0Hl34n/view?usp=sharing
 
-Not:Setup dosyası x86 yani 32 bit mimariye tasarlanmıştır ama 64 bit bilgisayarda da çalışır.
+Not1:Setup dosyası x86 yani 32 bit mimariye tasarlanmıştır ama 64 bit bilgisayarda da çalışır.
+Not2:Dosyalar boyutu büyük olduğu için drive'a yüklenmiştir
